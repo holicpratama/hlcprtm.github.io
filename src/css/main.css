@@ -1,0 +1,19 @@
+.header {
+  height: 100vh;
+  background-image: url("../img/background.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: content;
+  align-items: center;
+}
+
+i {
+  font-size: 25px;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
